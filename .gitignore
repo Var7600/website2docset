@@ -1,0 +1,9 @@
+# ignore cache
+__pycache__
+
+.mypy_cache/
+
+.pytest_cache/
+
+# ignore my todo list
+TODO.md
