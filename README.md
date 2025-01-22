@@ -1,4 +1,5 @@
 # Website2Docset
+[![pytest python](https://github.com/Var7600/website2docset/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/Var7600/website2docset/actions/workflows/python-app.yml)
 
 Convert HTML documentation to Dash/Zeal docsets easily. This tool helps you transform your HTML documentation into a format compatible with documentation browsers like Dash and Zeal.
 
